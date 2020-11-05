@@ -1,0 +1,85 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	background:url(Dashboard.png) no-repeat;
+	background-size: cover;
+	border:none;}
+
+.Judul2{
+	font-family:"Bauhaus 93";
+	color: #A38756;
+	margin-left: 70px;
+	font-size:40px;
+	position: relative;
+	bottom: 20px}
+
+.Guru2{
+	width:50px;
+	position:relative;
+	left:1200px;
+	bottom: 125px}
+
+.out{
+	width: 30px;
+	position: relative;
+	left: 1240px;
+	bottom: 135px;
+	opacity: 0.5}
+
+.Awal{
+	width: 45px;
+	position: relative;
+	right: 60px;
+	bottom:15px;
+	opacity: 0.7}
+
+.Tulisan{
+	font-size: 25px;
+	color: #A38756;
+	margin-left: 125px;
+	position: relative;
+	bottom: 75px}
+
+.Tugas{
+	width:45px;
+	position: absolute;
+	left:27px;
+	bottom: 390px;
+	opacity: 0.7}
+
+.Managemen{
+	font-size: 20px;
+	color:#A38756;
+	margin-left:125px;
+	position: absolute;
+	bottom: 375px}
+
+.Welcome{
+	font-size: 60px;
+	color: #75500F;
+	font-family: 'Cooper';
+	margin-left: 400px;
+	position: relative;
+	bottom:150px}
+
+.Selamat{
+	font-size: 18px;
+	font-family: 'Cambria';
+	color: #75500F;
+	margin-left: 400px;
+	position: relative;
+	bottom: 180px
+}
+
+.Selamat2{
+	font-size: 18px;
+	font-family: 'Cambria';
+	color: #75500F;
+	margin-left: 400px;
+	position: relative;
+	bottom: 180px
+}
+
+
+

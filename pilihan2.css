@@ -1,0 +1,30 @@
+body{
+	background:url(pilihan.png) no-repeat;
+	background-size: cover;
+}
+
+#Teacher{
+	font-size: 30px;
+	position: absolute;
+	top: 410px;
+	left: 330px;
+	color: #7A7979}
+
+.Teacher2{
+	text-decoration: none;
+	color: #7A7979;
+	font-size: 30px;}
+
+
+#Student{
+	font-size: 30px;
+	position: absolute;
+	top: 425px;
+	right: 300px;
+	color: #7A7979}
+
+.Student2{
+	text-decoration: none;
+	color: #7A7979;
+	font-size: 30px;}
+
