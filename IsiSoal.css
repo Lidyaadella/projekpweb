@@ -1,0 +1,201 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	background:url(Soal2.png) no-repeat;
+	background-size: cover;
+	border:none;}
+
+.Judul{
+	font-family:"Bauhaus 93";
+	color: #A38756;
+	margin-left: 70px
+}
+
+.Panah{
+	width:30px;
+	margin-left: 20px;
+	position: relative;
+	bottom: 80px;
+	opacity:0.5}
+
+.Rumah{
+	width: 30px;
+	margin-left: 1080px;
+	position: relative;
+	bottom: 60px;
+	opacity: 0.5}
+
+.Guru{
+	width:50px;
+	position:relative;
+	left:30px;
+	bottom: 60px}
+
+.Keluar{
+	width: 30px;
+	position: relative;
+	left: 60px;
+	bottom: 65px;
+	opacity: 0.5}
+
+#Kotak{
+	background:#FFFF;
+	padding: 30px;
+	border-radius: 8px;
+	height:70px;
+	width: 1050px;
+	position: relative;
+	left: 70px}
+
+.form-kotak{
+	font-family:'Berlin Sans FB';
+	font-size: 14px}
+
+.form input{
+	border: none;
+	border-bottom: 1px solid #fff;
+	background:transparent;
+	outline:#393837;
+	height: 20px;
+	margin: center;
+	color:#393837;
+	width: 980px;
+	font-size: 14px}
+
+.Pilihan{
+	position: relative;
+	top: 25px;
+	font-size: 14px;
+	opacity: 0.8}
+
+.Opsi{
+	font-size: 14px;
+	font-family: 'Berlin Sans FB';
+	color: #3823F6;
+	position: relative;
+	bottom: 30px}
+
+.Opsi1{
+	text-decoration: none;
+	color:blue;
+	font-size: 15px;
+	position: relative;
+	bottom:5px}
+
+.Jawaban{
+	font-size: 14px;
+	color: #A38756;
+	font-family: 'Berlin Sans FB';
+	position: absolute;
+	left: 85%;
+	bottom: 20px}
+
+#Kotak2{
+	background:#FFFF;
+	padding: 30px;
+	border-radius: 8px;
+	height:70px;
+	width: 1050px;
+	position: relative;
+	left: 70px;
+	top: 45px;}
+
+.form-kotak2{
+	font-family:'Berlin Sans FB';
+	font-size: 14px}
+
+.form input{
+	border: none;
+	border-bottom: 1px solid #fff;
+	background:transparent;
+	outline:#393837;
+	height: 20px;
+	margin: center;
+	color:#393837;
+	width: 980px;
+	font-size: 14px}
+
+.Pilihan2{
+	position: relative;
+	top: 25px;
+	font-size: 14px;
+	opacity: 0.8}
+
+.Opsi2{
+	font-size: 14px;
+	font-family: 'Berlin Sans FB';
+	color: #3823F6;
+	position: relative;
+	bottom: 30px}
+
+.Opsidua{
+	text-decoration: none;
+	color:blue;
+	font-size: 15px;
+	position: relative;
+	bottom:5px}
+
+.Jawaban2{
+	font-size: 14px;
+	color: #A38756;
+	font-family: 'Berlin Sans FB';
+	position: absolute;
+	left: 85%;
+	bottom: 20px}
+
+
+#Kotak3{
+	background:#FFFF;
+	padding: 30px;
+	border-radius: 8px;
+	height:70px;
+	width: 1050px;
+	position: relative;
+	left:70px;
+	top:85px;}
+
+.form-kotak3{
+	font-family:'Berlin Sans FB';
+	font-size: 14px}
+
+.form input{
+	border: none;
+	border-bottom: 1px solid #fff;
+	background:transparent;
+	outline:#393837;
+	height: 20px;
+	margin: center;
+	color:#393837;
+	width: 980px;
+	font-size: 14px}
+
+.Pilihan3{
+	position: relative;
+	top: 25px;
+	font-size: 14px;
+	opacity: 0.8}
+
+.Opsi3{
+	font-size: 14px;
+	font-family: 'Berlin Sans FB';
+	color: #3823F6;
+	position: relative;
+	bottom: 30px}
+
+.Opsitiga{
+	text-decoration: none;
+	color:blue;
+	font-size: 15px;
+	position: relative;
+	bottom:5px}
+
+.Jawaban3{
+	font-size: 14px;
+	color: #A38756;
+	font-family: 'Berlin Sans FB';
+	position: absolute;
+	left: 85%;
+	bottom: 20px}
+
+
