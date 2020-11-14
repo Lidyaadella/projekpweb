@@ -31,14 +31,7 @@ body{
 	position:relative;
 	left:30px;
 	bottom: 60px}
-
-.Keluar{
-	width: 30px;
-	position: relative;
-	left: 60px;
-	bottom: 65px;
-	opacity: 0.5}
-
+	
 #Kotak{
 	background:#FFFF;
 	padding: 30px;

@@ -74,14 +74,42 @@ body {background: #FBF0CD;}
 	color : #717171;
 	border-bottom: 1px solid #e0e4e8}
 
-.wrapper .main_content .info{
-	margin: 80px;
-	font-size: 50px;
-	color : #75500F;
-	line-height: 25px;}
+.wrapper .main_content .Kotak2{
+	background:white;
+	padding: 30px;
+	border-radius: 8px;
+	height:400px;
+	width: 800px;
+	position: relative;
+	top:80px;
+	left:150px}
 
-.wrapper .main_content .describ{
-	margin: 100px 0;
-	font-size: 20px;
-	color: #75500F;
-	line-height: 25px}
+.wrapper .main_content .Text8{
+	position: absolute;
+	left:250px;
+	top:30px;}
+
+.wrapper .main_content .Text9{
+	position: absolute;
+	left:450px;
+	top:30px;}
+
+.wrapper .main_content .Text10{
+	position: absolute;
+	left:650px;
+	top:30px;}
+
+.wrapper .main_content .time{
+	position: absolute;
+	left:260px;
+	top:60px;}
+
+.wrapper .main_content .waktu{
+	position: absolute;
+	left:460px;
+	top:60px;}
+
+.wrapper .main_content .skor{
+	position: absolute;
+	left:660px;
+	top:60px;}
