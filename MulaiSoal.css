@@ -115,3 +115,9 @@ body {background: #FBF0CD;}
 	bottom:5px;
 	color:white;}
 
+.wrapper .sidebar h2 p{
+	position: absolute;
+	left :57px;
+	font-size: 14px;
+	top: 100px
+}

@@ -27,6 +27,13 @@ body {background: #FBF0CD;}
 	margin-bottom: 30px;
 	margin-left: 65px}
 
+.wrapper .sidebar h2 p{
+	position: absolute;
+	left :57px;
+	font-size: 14px;
+	top: 100px
+}
+
 .wrapper .sidebar ul li{
 	padding: 15px;
 	border-bottom: 1px solid rgba(0,0,0,0.05);
