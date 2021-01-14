@@ -2,20 +2,21 @@
 <html>
 <head>
 	<title>LOGIN</title>
-	<link rel="stylesheet"href="login2.css">
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet"href="login3.css">
 </head>
 <body>
-	<img class=GambarLogin src="GambarLogin.png">
+	<img class=GambarLogin src="gambarloginn.png">
 	<h1 id=text> Log In </h1>
-	<form>
-		<input type="text" name="" placeholder="NIK">
-		<input type="Password" name="" placeholder="Password" minlength="8" maxlength="20">
+	<form method="post" name="form" onsubmit="return validasi()" action="dasboardua.html">
+		<input autocomplete="off" type="text"name="username" placeholder="Username" id="user">
+		<div id="userError">Harap isi form ini</div>
+		<input type="password" name="password" placeholder="Password" minlength="8" maxlength="20" id="pass">
+		<div id="passError">Harap isi form ini</div>
+		<button type="Submit" onclick="addname()">Login</button>
 	</form>
-	<a href="Password.html" class="Lupa">Lupa Password?</a>
-	<div class="Tampilkan">
-		<input type="checkbox" name="Lupa Password" value="Lupa"><label>Tampilkan Password</label>
 	</div>
-	<div id="Login" >
-	<a class="Link" href="Dashboard.html"><b>Log In</b></a> 
-	</div>
+	<script src="Login.js"></script>
+</body>	
 </html>

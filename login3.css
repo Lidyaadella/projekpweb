@@ -1,8 +1,7 @@
 body{
 
 	background:#F8D37B;
-	width: 100px;
-}
+	width: 100px}
 
 .GambarLogin{
 	position: relative;
@@ -33,7 +32,7 @@ form input{
 	position: absolute;
 	font-size: 13px;
 	left: 760px;
-	top:500px;
+	top:520px;
 	color: blue;}
 
 .Tampilkan{
@@ -41,7 +40,7 @@ form input{
 	font-size:59%;
 	font-family: 'Times New Rowman';
 	left: 580px;
-	top:10px}
+	top:30px}
 
 #Login{
 	width:100px;
@@ -58,4 +57,89 @@ form input{
 	text-decoration: none;
 	color: #7A7979;
 	font-size: 18px;
+}
+
+form #userError{
+	margin-top: 5px;
+	font-size:12px;
+	color:red;
+	position: relative;
+	left:750px;
+	top:20px;
+	display: none;
+}
+
+form #passError{
+	margin-top: 5px;
+	font-size:12px;
+	color:red;
+	position: relative;
+	left:750px;
+	top:20px;
+	display: none;
+}
+button{
+	margin:45px 0 30px 0;
+	height: 35px;
+	width: 100px;
+	font-size:18px;
+	color:grey;
+	outline: none;
+	cursor: pointer;
+	font-weight: bold;
+	background:#EFBF6B;
+	border-radius: 20px;
+	border:1px solid #A1A1A1; 
+	transition: .5s;
+	position: relative;
+	left:650px;
+}
+
+@media(min-width: 280px) and (max-width:1300px){
+	.GambarLogin{
+		width:150px;
+		position: absolute;
+		left:320px;
+		top:150px;
+	}
+	#text{
+		position: relative;
+		font-size:25px;
+		font-family:'Times New Rowman';
+		color: #7D7871;
+		top:80px;
+		left:340px;
+	}
+
+	form input{
+		margin: 10px;
+		padding:5px;
+		border:none;
+		border-radius: 17px;
+		width:150px;
+		margin-left: 40px;
+		position: relative;
+		left:270px;
+		top:230px;
+		font-size: 10px
+	}
+
+	button{
+	margin:45px 0 30px 0;
+	height:15px;
+	width:70px;
+	font-size:10px;
+	color:grey;
+	outline: none;
+	cursor: pointer;
+	font-weight: bold;
+	background:#EFBF6B;
+	border-radius: 20px;
+	border:1px solid #A1A1A1; 
+	transition: .5s;
+	position: absolute;
+	left:350px;
+	top:350px
+}
+
 }
